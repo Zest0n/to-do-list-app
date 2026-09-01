@@ -1,17 +1,34 @@
 # todolist
 
-A new Flutter project.
+A new TO DO LIST based flutter project
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a TO DO LIST application.
+this application can perform the following tasks:
+•	➕ Add new tasks
+•	✏️ Edit existing tasks
+•	✅ Mark tasks as completed
+•	🗑️ Delete tasks
+•	📋 View all pending and completed tasks
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+1. Home Screen
+•	Display all tasks
+•	Show completed/pending status
+•	Edit and delete options
+2. Add Task Screen
+•	Task title
+•	Task description
+•	Add button
+3. Task Details/Edit Screen
+•	View task information
+•	Edit task
+•	Marks as completed
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+The generated APK can be found inside:
+build/app/outputs/flutter-apk/
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
